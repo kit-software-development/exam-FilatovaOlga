@@ -1,0 +1,20 @@
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Server.exe.config
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Server.exe
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Server.pdb
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Lib.dll
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Lib.pdb
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\obj\Debug\TestsApp.Server.exe
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Server\obj\Debug\TestsApp.Server.pdb
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\Database.mdf
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\TestsApp.Client\TestsApp.Server\bin\Debug\Database_log.ldf
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\TestsApp.Client\TestsApp.Server\obj\Debug\TestsApp.Server.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Server.exe.config
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\obj\Debug\TestsApp.Server.exe
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\obj\Debug\TestsApp.Server.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\Database.mdf
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\Database_log.ldf
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Server.exe
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Server.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Lib.dll
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\bin\Debug\TestsApp.Lib.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Server\obj\Debug\TestsApp.Server.csprojResolveAssemblyReference.cache

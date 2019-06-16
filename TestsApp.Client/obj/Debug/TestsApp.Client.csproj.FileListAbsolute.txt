@@ -1,0 +1,24 @@
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Client.exe.config
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.csprojResolveAssemblyReference.cache
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.QuestionForm.resources
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.Properties.Resources.resources
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.csproj.GenerateResource.Cache
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Client.exe
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Client.pdb
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Lib.dll
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Lib.pdb
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.exe
+c:\users\zadamantiy\documents\visual studio 2015\Projects\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Client.exe.config
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.exe
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Client.exe
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Client.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Lib.dll
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\bin\Debug\TestsApp.Lib.pdb
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.QuestionForm.resources
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.Properties.Resources.resources
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.StartForm.resources
+C:\Users\pc\Desktop\_CSharpProj\TestsApp.Client\TestsApp.Client\obj\Debug\TestsApp.Client.AddQuestionForm.resources
